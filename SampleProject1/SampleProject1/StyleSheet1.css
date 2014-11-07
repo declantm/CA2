@@ -1,0 +1,6 @@
+﻿/* adding a background image */
+body {
+	background-image:url("img/egg_shell.png");
+	font-family: arial;
+	color:grey;
+}

@@ -1,0 +1,6 @@
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\bin\SampleProject1.dll.config
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\bin\SampleProject1.dll
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\bin\SampleProject1.pdb
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\obj\Debug\SampleProject1.csprojResolveAssemblyReference.cache
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\obj\Debug\SampleProject1.dll
+H:\02 Web Design\Week 7\Visual Studio Project\SampleProject1\SampleProject1\obj\Debug\SampleProject1.pdb
